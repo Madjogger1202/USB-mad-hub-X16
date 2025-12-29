@@ -1,0 +1,18 @@
+.TPS22975DSGR :1 ;5.7V, 6A, 16m Load Switch with Adjustable Rise Time & Optional QOD for Cost-Conscious Applications
+SON50P200X200X80-9N
+*STM S
+*NGS
+*PLB 1="VIN_1" 2="VIN_2" 3="ON" 4="VBIAS" 5="GND" 6="CT" 7="VOUT_1" 8="VOUT_2" 9="EP"
+*MXP 9
+*DFN TPS22975DSGR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS22975DSGR)
+~!Mouser Part Number (595-TPS22975DSGR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS22975DSGR?qs=zEmsApcVOkXVZ0HZtWdfyQ%3D%3D)
+~!Arrow Part Number (TPS22975DSGR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps22975dsgr/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps22975)
+~!Height (0.8mm)
+~!3D_Model (TPS22975DSGR)
+TPS22975DSGR
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

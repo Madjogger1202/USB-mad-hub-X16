@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS22975DSGR")(type "KiCad")(uri "${KIPRJMOD}/library/TPS22975DSGR/KiCad/TPS22975DSGR.kicad_sym")(options "")(descr ""))
+)

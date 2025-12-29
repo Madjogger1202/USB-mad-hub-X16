@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS22975DSGR
+D 5.7V, 6A, 16m Load Switch with Adjustable Rise Time & Optional QOD for Cost-Conscious Applications
+K
+F http://www.ti.com/lit/gpn/tps22975
+$ENDCMP
+#
+#End Doc Library

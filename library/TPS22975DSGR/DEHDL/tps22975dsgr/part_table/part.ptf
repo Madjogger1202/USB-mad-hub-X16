@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS22975DSGR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS22975DSGR" (!) = "", "SON50P200X200X80-9N", "Small Outline No-lead", "595-TPS22975DSGR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS22975DSGR?qs=zEmsApcVOkXVZ0HZtWdfyQ%3D%3D", "TPS22975DSGR", "https://www.arrow.com/en/products/tps22975dsgr/texas-instruments?utm_currency=USD&region=nac", "5.7V, 6A, 16m Load Switch with Adjustable Rise Time & Optional QOD for Cost-Conscious Applications", "http://www.ti.com/lit/gpn/tps22975", "0.8 mm"
+END_PART
+
+END.
